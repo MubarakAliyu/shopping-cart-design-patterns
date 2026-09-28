@@ -1,0 +1,6 @@
+{
+  "name": "shopping-cart-design-patterns",
+  "version": "1.0.0",
+  "description": "Shopping cart implemented using procedural programming and the Module Pattern",
+  "type": "module"
+}
